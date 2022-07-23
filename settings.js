@@ -19,31 +19,36 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `👋 𝙷𝙸.. 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+𝘐 𝘢𝘮 𝘨𝘭𝘢𝘥 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘢𝘷𝘢𝘪𝘭𝘪𝘯𝘨 𝘮𝘺 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 👾♥️
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+𝐇𝐀𝐕𝐄 𝐀 𝐍𝐈𝐂𝐄 𝐃𝐀𝐘 🌎🍃✨
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+││╴╴╴╴╴╴╴╴╴╴╴╴❬☠❭╴╴╴╴╴╴╴╴╴╴╴╴││` //Costomize Alive Message (type your message in `` )
 
-global.region = 'India, South India, Kerala' //Country Region
+global.owner = ['+94716025918'] //Owner number in aive msg
+global.premium = ['+94716025918'] //Owner Number info
+global.ownernomer = '+94716025918' //Owner Number <<<
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.ownername = '𝙎𝘼𝙃𝘼𝙉 𝙎𝘼𝙏𝙃𝙎𝘼𝙍𝘼 👻' //Owner Name
+global.botname = '24×7 PUBLIC USER BOT' //Bot Name
+
+global.button = 'Whatsapp Group ✅' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/LN8keBxlL8H5FKezYgUdIU' //Change Your Button's URL
+
+global.region = 'Sri Lanka, Western Province, Narammala' //Country Region
+
+global.packname = '24×7 BOT' //Bot Pacage Name
+global.author = '𝙎𝘼𝙃𝘼𝙉 𝙎𝘼𝙏𝙃𝙎𝘼𝙍𝘼 👻' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙱𝚈 𝚂𝙰𝙷𝙰𝙽 𝚂𝙰𝚃𝙷𝚂𝙰𝚁𝙰.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://t.me/filmhublink' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
