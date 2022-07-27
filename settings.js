@@ -46,7 +46,7 @@ global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙱𝚈 𝚂𝙰𝙷𝙰𝙽 𝚂𝙰𝚃𝙷𝚂𝙰𝚁𝙰.' //In list menu
-global.chatbotpre = 'true'  // Chat bot true/false
+global.chatbotpre = 'false'  // Chat bot true/false
 
 global.ig = 'https://t.me/filmhublink' //Github Account!
 
